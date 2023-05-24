@@ -8,4 +8,6 @@ Clock and Weather Forecast with 2 big neopixel LED rings (60 and 48 px)
 * 3d print files are used to assemble the rings and act as spacer to a wall
 * a decorative ring can be created and put on the front to act as "clock face"
 
+(!) Enter your own API key from openweathermap.org in main.py
+
 ![](stargate_clock2.jpg)
